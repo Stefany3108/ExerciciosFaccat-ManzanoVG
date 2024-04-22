@@ -1,8 +1,8 @@
 Algoritmo "Diferente de 0 (Enquanto com Mensagem)"
-// Disciplina   : [LÛgica de ProgramaÁ„ com JS]
+// Disciplina   : [L√≥gica de Programa√ß√£ com JS]
 // Professor   : Jailson
-// DescriÁ„o   : Lopping que n„o permite o segundo valor ser = 0
-// Autor(a)    : Lucas Vilarindo
+// Descri√ß√£o   : Lopping que n√£o permite o segundo valor ser = 0
+// Autor(a)    : Stefany Barreto
 // Data atual  : 14/04/2024
 Var
    n1, n2: inteiro
